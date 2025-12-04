@@ -1,0 +1,167 @@
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\appsettings.json
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\ApiHospital.staticwebassets.endpoints.json
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\ApiHospital.exe
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\ApiHospital.deps.json
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\ApiHospital.runtimeconfig.json
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\ApiHospital.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\ApiHospital.pdb
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\obj\Debug\net9.0\ApiHospital.csproj.AssemblyReference.cache
+C:\Users\GUSTAVO.FELIX\ApiHospital\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\GUSTAVO.FELIX\ApiHospital\obj\Debug\net9.0\ApiHospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUSTAVO.FELIX\ApiHospital\obj\Debug\net9.0\ApiHospital.AssemblyInfoInputs.cache
+C:\Users\GUSTAVO.FELIX\ApiHospital\obj\Debug\net9.0\ApiHospital.AssemblyInfo.cs
+C:\Users\GUSTAVO.FELIX\ApiHospital\obj\Debug\net9.0\ApiHospital.csproj.CoreCompileInputs.cache
+C:\Users\GUSTAVO.FELIX\ApiHospital\obj\Debug\net9.0\ApiHospital.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\GUSTAVO.FELIX\ApiHospital\obj\Debug\net9.0\ApiHospital.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GUSTAVO.FELIX\ApiHospital\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\GUSTAVO.FELIX\ApiHospital\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\GUSTAVO.FELIX\ApiHospital\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\GUSTAVO.FELIX\ApiHospital\obj\Debug\net9.0\scopedcss\bundle\ApiHospital.styles.css
+C:\Users\GUSTAVO.FELIX\ApiHospital\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\GUSTAVO.FELIX\ApiHospital\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\GUSTAVO.FELIX\ApiHospital\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\GUSTAVO.FELIX\ApiHospital\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\GUSTAVO.FELIX\ApiHospital\obj\Debug\net9.0\ApiHospi.55E41C3B.Up2Date
+C:\Users\GUSTAVO.FELIX\ApiHospital\obj\Debug\net9.0\ApiHospital.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\obj\Debug\net9.0\refint\ApiHospital.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\obj\Debug\net9.0\ApiHospital.pdb
+C:\Users\GUSTAVO.FELIX\ApiHospital\obj\Debug\net9.0\ApiHospital.genruntimeconfig.cache
+C:\Users\GUSTAVO.FELIX\ApiHospital\obj\Debug\net9.0\ref\ApiHospital.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\GUSTAVO.FELIX\ApiHospital\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\obj\Debug\net9.0\ApiHospital.csproj.AssemblyReference.cache
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\obj\Debug\net9.0\ApiHospital.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\obj\Debug\net9.0\ApiHospital.AssemblyInfoInputs.cache
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\obj\Debug\net9.0\ApiHospital.AssemblyInfo.cs
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\obj\Debug\net9.0\ApiHospital.csproj.CoreCompileInputs.cache
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\obj\Debug\net9.0\ApiHospital.MvcApplicationPartsAssemblyInfo.cs
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\obj\Debug\net9.0\ApiHospital.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\appsettings.Development.json
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\appsettings.json
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\ApiHospital.staticwebassets.endpoints.json
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\ApiHospital.exe
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\ApiHospital.deps.json
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\ApiHospital.runtimeconfig.json
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\ApiHospital.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\ApiHospital.pdb
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Azure.Core.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Azure.Identity.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\System.ClientModel.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\System.Memory.Data.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\obj\Debug\net9.0\scopedcss\bundle\ApiHospital.styles.css
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\obj\Debug\net9.0\staticwebassets.build.json
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\obj\Debug\net9.0\staticwebassets.development.json
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\obj\Debug\net9.0\ApiHospi.55E41C3B.Up2Date
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\obj\Debug\net9.0\ApiHospital.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\obj\Debug\net9.0\refint\ApiHospital.dll
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\obj\Debug\net9.0\ApiHospital.pdb
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\obj\Debug\net9.0\ApiHospital.genruntimeconfig.cache
+D:\OneDrive\vCardHealth\Libros\Crea tu primera API REST con .NET y SQL Server en solo 7 días - guía práctica paso a paso\fuentes\ApiHospital\obj\Debug\net9.0\ref\ApiHospital.dll
